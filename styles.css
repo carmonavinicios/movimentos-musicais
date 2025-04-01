@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #ffffff;
+    background-color: #0a0a0a;
 
 }
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #131211;
+    background-color: #ff0000;
     border: none;
     font-weight: bold;
 }
 
 /* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #dfd8d8;
+    background-color: #f9ecec;
 }
 
